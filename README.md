@@ -1,4 +1,4 @@
-#Ionic boilerplate
+#**Ionic boilerplate**
 #Instructions
 
     npm install -g cordova ionic
@@ -24,17 +24,29 @@
     
 #Template Structure
 
-`./app/img/` - Images
+`./plugins` - Cordova/Ionic plugins
 
-`./app/js/`  - Scripts
+`./config.xml` - Cordova configuration
 
-`./app/scss/` - The styles of app using Sass
+`./ionic.config.json` - Ionic configuration
+
+`./app` - Application
+
+`./app/index.html` - The init page
 
 `./app/templates/` - Views
 
-`./app/index.html` - The init page.
+`./app/js/`  - Scripts
+
+`./app/img/` - Images
+
+`./app/scss/` - The styles of app using Sass
+
+`./www` - Public version
+
+`./www/lib` - Download scripts using bower
 
 `./www/css/` - Other css styles like 
 
-`./www/lib` - Download scripts using bower
+
  	 
