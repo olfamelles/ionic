@@ -1,0 +1,10 @@
+{
+  "name": "Abisfadone",
+  "app_id": "22a68333",
+  "gulpStartupTasks": [
+    "watch"
+  ],
+  "watchPatterns": [
+    "app/**/*"
+  ]
+}
